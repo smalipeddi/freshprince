@@ -1,0 +1,15 @@
+body{
+background:lightgray;
+font-size:20px;
+font-family:Times New roman;
+}
+
+h1{
+color:red;
+font-style:bold;
+}
+
+p{
+text-align: center;
+font-style:italic;
+}
